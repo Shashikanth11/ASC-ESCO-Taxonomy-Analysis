@@ -1,4 +1,4 @@
-# Text-Analysis
+# ASC/ESCO Taxonomy Analysis
 The **Australian Skills Classification (ASC) 2024 dataset** provides a structured taxonomy of occupations and skills relevant to the Australian job market.To understand it strength and weakness this project performs a detailed **text analysis** with various **Natural Language Processing (NLP) techniques**, including **word frequency analysis, n-gram analysis, topic modeling, clustering, and similarity analysis**.
 
 
